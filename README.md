@@ -1,6 +1,6 @@
 # Welcome!
 
-* This is a public **learning journal**.
+* AThis is a public **learning journal**.
 * The sidebar of this journal provides a list of **Subjects**.
 * Every Subject's page articulates **Learning Objectives and Outcomes**. These are communicated in terms of desired understanding, skills, and attitudes.
 * Under each Subject:
@@ -21,7 +21,25 @@
 | Entry                                    | Rationale |
 | ---------------------------------------- | --------- |
 | **Ongoing Catastrophes and Root Causes** |           |
-| Teaching and Learning                    |           |
-|                                          |           |
+| **Philosophy and Psychology**            |           |
+| **Teaching and Learning**                |           |
+| **Rhetoric and Propaganda**              |           |
+| **Crypto Anarchy**                       |           |
+| **Blockchain**                           |           |
+| **Ethereum**                             |           |
+| **Loopring**                             |           |
+| **GameStop**                             |           |
+| **Leadership and Management**            |           |
+| **Communication**                        |           |
+| **Technical Writing**                    |           |
+| **Software Engineering**                 |           |
+| **DevOps**                               |           |
+| **Product Development**                  |           |
+| **User Experience**                      |           |
+| **Health, Exercise, and Nutrition**      |           |
+| **Permaculture and Homesteading**        |           |
+| **Partnering and Parenting**             |           |
+| **Trauma and Abuse**                     |           |
+| **Asperger's and Autism**                |           |
 
 ****
