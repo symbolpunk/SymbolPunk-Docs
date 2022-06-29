@@ -1,6 +1,6 @@
 # Welcome!
 
-* AThis is a public **learning journal**.
+* This is a public **learning journal**.
 * The sidebar of this journal provides a list of **Subjects**.
 * Every Subject's page articulates **Learning Objectives and Outcomes**. These are communicated in terms of desired understanding, skills, and attitudes.
 * Under each Subject:
