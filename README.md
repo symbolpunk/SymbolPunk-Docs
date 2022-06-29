@@ -13,3 +13,15 @@
   * **Glossaries** are used to define key terminology.
 * Below the list of Subjects, you'll see a list of **Projects**. These Projects attempt to address unmet human needs by applying the knowledge within this learning journal. Guides can be used to develop skills by contributing to Projects.
 * Throughout this journal's entries, **Footnotes** are used to elaborate and connect the dots.
+
+\----
+
+**Table of Contents**
+
+| Entry                                    | Rationale |
+| ---------------------------------------- | --------- |
+| **Ongoing Catastrophes and Root Causes** |           |
+| Teaching and Learning                    |           |
+|                                          |           |
+
+****
