@@ -24,19 +24,19 @@
 | **Philosophy and Psychology**            |           |
 | **Teaching and Learning**                |           |
 | **Rhetoric and Propaganda**              |           |
+| **Health, Exercise, and Nutrition**      |           |
 | **Crypto Anarchy**                       |           |
 | **Blockchain**                           |           |
 | **Ethereum**                             |           |
 | **Loopring**                             |           |
 | **GameStop**                             |           |
-| **Leadership and Management**            |           |
-| **Communication**                        |           |
+| **Product Development**                  |           |
+| **User Experience**                      |           |
 | **Technical Writing**                    |           |
 | **Software Engineering**                 |           |
 | **DevOps**                               |           |
-| **Product Development**                  |           |
-| **User Experience**                      |           |
-| **Health, Exercise, and Nutrition**      |           |
+| **Leadership and Management**            |           |
+| **Communication**                        |           |
 | **Permaculture and Homesteading**        |           |
 | **Partnering and Parenting**             |           |
 | **Trauma and Abuse**                     |           |
