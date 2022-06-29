@@ -1,2 +1,0 @@
-# Ongoing Catastrophes
-

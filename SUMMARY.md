@@ -4,7 +4,7 @@
 
 ## Subjects
 
-* [Ongoing Catastrophes and Root Causes](subjects/ongoing-catastrophes-and-root-causes.md)
+* [Ongoing Catastrophes and Root Causes](subjects/ongoing-catastrophes.md)
 * [Teaching and Learning](subjects/teaching-and-learning.md)
 * [Rhetoric and Propaganda](subjects/rhetoric-and-propaganda.md)
 * [Crypto Anarchy](subjects/crypto-anarchy.md)
@@ -22,7 +22,10 @@
 * [Loopring](subjects/loopring.md)
 * [GameStop](subjects/gamestop.md)
 * [Leadership](subjects/leadership.md)
-* [Communication](subjects/communication.md)
+* [Communication](subjects/communication/README.md)
+  * [Research](subjects/communication/research/README.md)
+    * [Nonviolent Communication](subjects/communication/research/nonviolent-communication/README.md)
+      * [Videos](subjects/communication/research/nonviolent-communication/videos.md)
 * [Psychology](subjects/psychology.md)
 * [Technical Writing](subjects/technical-writing.md)
 * [Software Engineering](subjects/software-engineering.md)
