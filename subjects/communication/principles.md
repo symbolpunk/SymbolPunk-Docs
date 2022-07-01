@@ -5,7 +5,7 @@
 {% hint style="info" %}
 Remote teams often rely on async communication, where innocent statements can be easily interpreted as harsher than intended.\
 \
-There’s both **business** value (improved collaborative efficiency / increased motivation) and **psychological** value (warm, friendly camaraderie) in taking time to communicate gently. The principles in this section can help minimize the risk of costly communication misfires.
+There’s both **business** value (improved collaborative efficiency / increased motivation / reduced costs) and **psychological** value (safety, belonging, esteem, respect, camaraderie) in taking time to communicate gently. The principles in this section can help minimize the risk of costly communication misfires.
 {% endhint %}
 
 1. **Constructive criticism** is criticism that builds upon someone’s effort while making them feel like their effort is valued. This takes time, tact, and effort, but it can help minimize the risk of demotivating the wonderful people that you work with.
