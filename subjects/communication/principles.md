@@ -2,8 +2,6 @@
 
 ### Principles of Constructive Criticism
 
-
-
 {% hint style="info" %}
 Remote teams often rely on async communication, where innocent statements can be easily interpreted as harsher than intended.\
 \
@@ -31,6 +29,6 @@ There’s both **business** value (improved collaborative efficiency / increased
    1. If you think an idea/approach is flawed → “Why is this person doing what they’re doing? How can I help them help us all, without making them feel negative emotions?”
 10. Ask questions before suggesting big changes or rejecting a proposal.
     1. “Let me spit this back at you to make sure I understand your thinking - the way that I understand this is xyz, is that right?” → This communicates a good-faith effort to “understand first”.
-11. Offer solutions when communicating perceived problems.
-    1. “X is bad” → “X feels suboptimal because Y. Am I understanding that correctly? Have we considered Z?”
+11. Sandwich proposed solutions in positive feedback when communicating perceived problems.
+    1. “X is bad” → “I love X about this - I can tell you've put a lot of thought into it. One aspect that feels suboptimal is Y because Z... Am I understanding things correctly? If so, a potential way to address Y is W... how does this feel to you?” -> It's less terse and more expensive in the short-term, but also healthier psychology in the long-term.
 12. Praise, encouragement, and **constructive** criticism can be shared in public, but harsher or blunter criticism is usually best offered privately. Everyone lives somewhere on the spectrum of sensitivity, and folks on one end of that spectrum may be easily overwhelmed or demotivated by the anxiety that can accompany public criticism.
