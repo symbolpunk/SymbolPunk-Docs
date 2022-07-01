@@ -16,3 +16,6 @@
 14. When conveying complex ideas/flows/relationships, visuals can be far more efficient than text.
 15. Resist the temptation of clever infrastructure that embeds code snippets from samples repositories into docs. In theory it's a good idea, in practice it distracts from core developer experience improvements, it reduces content iteration frequency, it introduces complexity, dependencies, and risk, and it increases costs. If you do this, make sure you have the engineering resources to do it right (eg Stripe, Twilio).
 16. Auto-generating parameter and API reference documentation can be effective, as long as it reduces costs and improves developer experience.
+17. Derive titles from current user behavior / search terms / needs.
+18. When titling documents, precision and accuracy matter.
+19. Expose technical details in docs when technical details are exposed via product.
