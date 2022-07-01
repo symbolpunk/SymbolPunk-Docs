@@ -18,7 +18,8 @@ There’s both **business** value (improved collaborative efficiency / increased
     2. **Ignoring/criticizing/dismissing**: This is expensive because it can negatively impact individual psychology, which can negatively impact group psychology.
 
     The more we respond to bids through **attendance**, the deeper our connections will be, and the more motivated we’ll be to collaboratively build value.
-5. Focus less on format/voice and more on the core ideas being presented.
+5. Consider zooming out a notch - focusing less on format/voice/perfection/preference and more on the core ideas being presented.
+   1. Zooming in might be required where precision is absolutely necessary, eg code, code conventions, etc. Try to consider the ROI of the feedback you're providing - "does the time + money + cognitive + psychological cost of articulating this, receiving it, and implementing it justify the benefit?"
 6. If you don’t have something constructive to add, don’t say anything at all.
 7. If someone invests effort into presenting an idea, consider reciprocating that effort by reviewing and thinking about their perspective carefully, instead of just skimming and thin-slicing.
    1. If an idea’s presentation is too verbose, a gentle request for a TLDR could help → “I’m super distracted at the moment, would it be possible to distill this into a paragraph?”
