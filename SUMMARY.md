@@ -24,6 +24,7 @@
 * [Leadership and Management](subjects/leadership.md)
   * [Concepts](subjects/leadership-and-management/concepts/README.md)
     * [Forming, Storming, Norming, Performing](subjects/leadership-and-management/concepts/forming-storming-norming-performing.md)
+    * [Productivity Waves](subjects/leadership-and-management/concepts/productivity-waves.md)
 * [Communication](subjects/communication.md)
   * [Principles](subjects/communication/principles.md)
   * [Concepts](subjects/communication/concepts/README.md)
