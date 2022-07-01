@@ -18,9 +18,9 @@ There’s both **business** value (improved collaborative efficiency / increased
     2. **Ignoring/criticizing/dismissing**: This is expensive because it can negatively impact individual psychology, which can negatively impact group psychology.
 
     The more we respond to bids through **attendance**, the deeper our connections will be, and the more motivated we’ll be to collaboratively build value.
-5. Consider zooming out a notch - focusing less on format/voice/perfection/preference and more on the core ideas being presented.
-   1. Zooming in might be required where precision is absolutely necessary, eg code, code conventions, etc. Try to consider the ROI of the feedback you're providing - "does the time + money + cognitive + psychological cost of articulating this, receiving it, and implementing it justify the benefit?"
-6. If you don’t have something constructive to add, don’t say anything at all.
+5. Consider zooming out a notch - focusing less on format/perfection and more on the core ideas being presented.
+   1. Zooming in might be required where precision is necessary, eg code, code conventions, truth, etc. Consider the ROI of the feedback you're providing - "does the time + money + cognitive + psychological cost of articulating this, receiving it, and implementing it justify the benefit?"
+6. If you don’t have something constructive to add, consider waiting to provide feedback until you have time to formulate something constructive to add.
 7. If someone invests effort into presenting an idea, consider reciprocating that effort by reviewing and thinking about their perspective carefully, instead of just skimming and thin-slicing.
    1. If an idea’s presentation is too verbose, a gentle request for a TLDR could help → “I’m super distracted at the moment, would it be possible to distill this into a paragraph?”
    2. If you don't have time to provide thoughtful constructive criticism, expressing this constraint can help soften reception -> "I'm admittedly super constrained, but my initial impressions are x. Please take this with a grain of salt though - I haven't had time to review and reflect in detail!"
@@ -32,6 +32,12 @@ There’s both **business** value (improved collaborative efficiency / increased
     1. “Let me spit this back at you to make sure I understand your thinking - the way that I understand this is xyz, is that right?” → This communicates a good-faith effort to “understand first”.
 11. Offer solutions when communicating perceived problems.
     1. “X is bad” → “X feels suboptimal because Y. Am I understanding that correctly? Have we considered Z?”
-12. Sandwich proposed solutions in positive feedback when communicating perceived problems.
+12. Consider sandwiching proposed solutions in positive feedback when communicating perceived problems.
     1. “X is bad” → “I love X about this - I can tell you've put a lot of thought into it. One aspect that feels suboptimal is Y because Z... Am I understanding things correctly? If so, a potential way to address Y is W... how does this feel to you? Thank you for asking me for inputs - I really love the direction this is headed in!” -> It's less terse and more expensive in the short-term, but also healthier psychology (which can reduce costs) over the long-term.
-13. Praise, encouragement, and **constructive** criticism can be shared in public, but harsher or blunter criticism is usually best offered privately. Everyone lives somewhere on the spectrum of sensitivity, and folks on one end of that spectrum may be easily overwhelmed or demotivated by the anxiety that can accompany public criticism.
+13. Consider attaching proposed solutions to principles whenever possible.
+    1. "X is bad" -> "I'd recommend x based on the principle of y... does this seem like an effective application of the principle? Are there other alternative principles we might want to consider?"
+    2. This can reduce costs over the long-term by aligning peers on principles and how they're applied to the work that you do.
+14. Consider reframing assertions as questions. This can reduce costs by inviting intellectual exchange and exploration instead of forcing a defensive posture.
+    1. "We should x", "X is better" -> "Have we considered x?"
+    2. This relates to [epistemic humility](https://en.wikipedia.org/wiki/Epistemic\_humility).
+15. Praise, encouragement, and **constructive** criticism can be shared in public, but harsher or blunter criticism is usually best offered privately. Everyone lives somewhere on the spectrum of sensitivity, and folks on one end of that spectrum may be easily overwhelmed or demotivated by the anxiety that can accompany public criticism.
