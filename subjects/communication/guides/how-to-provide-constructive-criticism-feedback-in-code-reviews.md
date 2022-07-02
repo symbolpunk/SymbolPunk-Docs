@@ -1,4 +1,4 @@
-# How to provide constructive criticism
+# How to provide constructive criticism / feedback in code reviews
 
 {% hint style="info" %}
 Remote teams often rely on async communication, where innocent statements can be easily interpreted as harsher than intended.\
@@ -12,7 +12,8 @@ Note that these aren’t prescriptive or universally applicable guidelines - eve
 
 1. **Constructive criticism** is criticism that builds upon someone’s effort while making them feel like their effort is valued. This takes effort, but it can help minimize the risk of demotivating the wonderful people that you work with.
 2. When in doubt, consider framing your feedback in terms of **questions** and **feelings**.
-   1. “Option X feels better than Y because Z - thoughts?”
+   1. "I feel I might be missing some context regarding X, could you walk me through your rationale?"
+   2. “Option X feels better than Y because Z - thoughts?”
 3. Assume everyone has a need to feel valued and respected.
 4.  An invitation to provide feedback is a **bid** for your intellectual attention. Bid responses generally fall into one of two categories:
 
