@@ -49,6 +49,6 @@ Note that these aren’t prescriptive or universally applicable guidelines - eve
 
 ### Discussion
 
-**We're programmers, so we're used to communicating tersely.**\
-****There's a fine line between terse/succinct/concise and rude/authoritative/dismissive. Unless everyone you're working with is explicitly on board with short-form feedback that skips over manners, it could be healthier (and cheaper!) to assume that everyone you work with strongly prefers nonviolent / constructive feedback. Normalizing shortcuts like this also exposes you and your peers to the risk of forgetting that they're shortcuts, making it easier to carry "fine-line communication" into other areas of your life.
+**We're programmers, so we're used to communicating tersely. This seems a bit extra.**\
+****There's a fine line between terse/succinct/concise and rude/authoritative/dismissive. Unless everyone you're working with is explicitly on board with short-form feedback that skips over manners, it could be healthier (and cheaper!) to assume that everyone you work with strongly prefers nonviolent / constructive feedback. Normalizing shortcuts in communication exposes you and your peers to the risk of forgetting that they're shortcuts, making it easier to carry "fine-line communication" into other areas of your life. Some of your coworkers may also come from psychologically abusive environments that make them particularly sensitive to authority. Those who are neurodivergent may also find it particularly difficult to feel productive in environments that normalize "epistemic shortcuts".
 
