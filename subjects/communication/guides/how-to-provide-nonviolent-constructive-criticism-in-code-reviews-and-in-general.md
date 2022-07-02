@@ -42,7 +42,7 @@ Note that these aren’t prescriptive or universally applicable guidelines - eve
     2. This can reduce costs over the long-term by aligning peers on principles and how they're applied to the work that you do. One way to minimize bikeshedding/nitpicking in general is to continuously document principles and conventions as opportunities arise, providing pointers to this documentation from your feedback.
 14. Consider reframing assertions as questions. This can reduce costs by inviting intellectual exchange, learning, and exploration instead of forcing a defensive posture.
     1. "We should x", "X is better" -> "I'm feeling inclined towards x because of z reasons - what do you think?"
-    2. This relates to [epistemic humility](https://en.wikipedia.org/wiki/Epistemic\_humility).
+    2. This relates to [epistemic humility](https://en.wikipedia.org/wiki/Epistemic\_humility) - we want to cultivate an epistemic commons, not an epistemic dictatorship.
 15. Praise, encouragement, and **constructive** criticism can be shared in public, but harsher or blunter criticism is usually best offered privately. Everyone lives somewhere on the spectrum of sensitivity, and folks on one end of that spectrum may be easily overwhelmed or demotivated by the anxiety that can accompany public criticism.
 
 
