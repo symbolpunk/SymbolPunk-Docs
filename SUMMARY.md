@@ -32,7 +32,7 @@
     * [Giraffe Communication](subjects/communication/concepts/giraffe-communication.md)
     * [Jackal Communication](subjects/communication/concepts/jackal-communication.md)
   * [Guides](subjects/communication/guides.md)
-    * [How to provide constructive criticism / feedback in code reviews](subjects/communication/guides/how-to-provide-constructive-criticism-feedback-in-code-reviews.md)
+    * [How to provide nonviolent, constructive criticism (in code reviews, and in general)](subjects/communication/guides/how-to-provide-nonviolent-constructive-criticism-in-code-reviews-and-in-general.md)
   * [Research](subjects/communication/research/README.md)
     * [Nonviolent Communication](subjects/communication/research/nonviolent-communication/README.md)
       * [Videos](subjects/communication/research/nonviolent-communication/videos.md)

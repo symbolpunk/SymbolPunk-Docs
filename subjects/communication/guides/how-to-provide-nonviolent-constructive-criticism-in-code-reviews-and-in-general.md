@@ -1,7 +1,7 @@
-# How to provide constructive criticism / feedback in code reviews
+# How to provide nonviolent, constructive criticism (in code reviews, and in general)
 
 {% hint style="info" %}
-Remote teams often rely on async communication, where innocent statements can be easily interpreted as harsher than intended.\
+Remote teams often rely on asynchronous communication, where innocent written statements can be easily interpreted as harsher than intended.\
 \
 Investing in the development of **constructive criticism culture** can yield both **business** value (improved collaborative efficiency / increased motivation / reduced costs) and **psychological** value (safety, belonging, esteem, respect, camaraderie).\
 \
@@ -33,7 +33,7 @@ Note that these aren’t prescriptive or universally applicable guidelines - eve
    1. If you think an idea/approach is flawed → “Why is this person doing what they’re doing? How can I help them help us all, without making them feel negative emotions?”
 10. Ask questions before suggesting big changes or rejecting a proposal.
     1. “Let me spit this back at you to make sure I understand your thinking - the way that I understand this is X Y Z, is that right?” → This communicates a good-faith effort to “understand first”.
-11. Offer solutions when communicating perceived problems.
+11. Offer reasons and solutions when communicating perceived problems.
     1. “X is bad” → “X feels suboptimal because Y. Am I understanding that correctly? Have we considered Z?”
 12. Consider sandwiching proposed solutions in positive feedback when communicating perceived problems. This can be especially effective when handling larger “units of work”.
     1. “X is bad” → “I love X about this - I can tell you've put a lot of thought into it. One aspect that feels suboptimal is Y because Z... Am I understanding things correctly? If so, a potential way to address Y is W... how does this feel to you? Thank you for asking me for inputs - I really love the direction this is headed in!” -> It's less terse and more expensive in the short-term, but also healthier psychology (which can reduce costs) over the long-term.
@@ -44,3 +44,11 @@ Note that these aren’t prescriptive or universally applicable guidelines - eve
     1. "We should x", "X is better" -> "I'm feeling inclined towards x because of z reasons - what do you think?"
     2. This relates to [epistemic humility](https://en.wikipedia.org/wiki/Epistemic\_humility).
 15. Praise, encouragement, and **constructive** criticism can be shared in public, but harsher or blunter criticism is usually best offered privately. Everyone lives somewhere on the spectrum of sensitivity, and folks on one end of that spectrum may be easily overwhelmed or demotivated by the anxiety that can accompany public criticism.
+
+
+
+### Discussion
+
+**We're programmers, so we're used to communicating tersely.**\
+****There's a fine line between terse/succinct/concise and rude/authoritative/dismissive. Unless everyone you're working with is explicitly on board with short-form feedback that skips over manners, it could be healthier (and cheaper!) to assume that everyone you work with strongly prefers nonviolent / constructive feedback. Normalizing shortcuts like this also exposes you and your peers to the risk of forgetting that they're shortcuts, making it easier to carry "fine-line communication" into other areas of your life.
+
